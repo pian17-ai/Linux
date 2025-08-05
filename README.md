@@ -9,10 +9,14 @@ For command linux
 5. Asciiquarium
 6. Icat
 
+
+## XAMPP
 Start XAMPP
+```bash
 sudo /opt/lampp/lampp start
 
 End XAMPP
+```bash
 sudo /opt/lampp/lampp stop
 
 
