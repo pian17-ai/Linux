@@ -15,7 +15,6 @@
 
 
 ## XAMPP
-> how to start and end XAMPP in linux
 Start XAMPP
 ```bash
 sudo /opt/lampp/lampp start
