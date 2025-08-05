@@ -12,11 +12,14 @@ For command linux
 
 ## XAMPP
 Start XAMPP
+```bash
 sudo /opt/lampp/lampp start
+```
 
 End XAMPP
+```bash
 sudo /opt/lampp/lampp stop
-
+```
 
 # 📘 NoteKeeper
 
