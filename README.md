@@ -1,5 +1,4 @@
 # Linux
-For command linux
 
 ## Fun CLI
 1. cmatrix
@@ -9,6 +8,7 @@ For command linux
 5. asciiquarium
 6. icat
 7. btop
+8. tty-clock -c -C 6 -B
 
 
 ---
