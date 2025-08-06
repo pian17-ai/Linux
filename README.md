@@ -30,7 +30,22 @@ Create Folder
 mkdir
 ```
 
-Deleted Folder
+Delete Folder
 ```bash
 rm -r 
+```
+
+Create File
+```bash
+touch
+```
+
+Delete File
+```bash
+rm
+```
+
+Edit File with Terminal
+```bash
+nano
 ```
