@@ -10,9 +10,7 @@
 7. btop
 8. tty-clock -c -C 6 -B
 
-
 ---
-
 
 ## XAMPP
 Start XAMPP
@@ -24,8 +22,15 @@ End XAMPP
 ```bash
 sudo /opt/lampp/lampp stop
 ```
-
-
 ---
 
+## Dasar
+Create Folder
+```bash
+mkdir
+```
 
+Deleted Folder
+```bash
+rm -r 
+```
