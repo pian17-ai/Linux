@@ -49,3 +49,13 @@ Edit File with Terminal
 ```bash
 nano
 ```
+
+Search CLI
+```bash
+history | grep
+```
+
+Search CLI
+```bash
+CTRL + R
+```
