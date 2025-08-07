@@ -25,7 +25,7 @@ sudo /opt/lampp/lampp stop
 
 ---
 
-## Error XAMPP (another web server already running, atau 80/443 port is already)
+## Error XAMPP (another web server already running, or 80/443 port is already)
 
 ### Check who use a port 80
 ```bash
@@ -47,7 +47,7 @@ sudo systemctl stop nginx
 
 ---
 
-## Dasar
+## Basic
 ### Create Folder
 ```bash
 mkdir <>
