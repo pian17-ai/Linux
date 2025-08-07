@@ -85,5 +85,15 @@ CTRL + R
 
 ### Copas folder
 ```bash
-sudo cp ~/<>/ /<>/
+cp ~/<>/ /<>/
+```
+
+### Check file in folder
+```bash
+ls <>
+```
+
+### Change Ownership
+```bash
+sudo chown [user]:[group] [file/folder]
 ```
