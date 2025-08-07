@@ -13,12 +13,12 @@
 ---
 
 ## XAMPP
-Start XAMPP
+### Start XAMPP
 ```bash
 sudo /opt/lampp/lampp start
 ```
 
-End XAMPP
+### End XAMPP
 ```bash
 sudo /opt/lampp/lampp stop
 ```
@@ -27,7 +27,7 @@ sudo /opt/lampp/lampp stop
 
 ## Error XAMPP (another web server already running, atau 80/443 port is already)
 
-Check who use a port 80
+### Check who use a port 80
 ```bash
 sudo lsof -i :80
 sudo ss -tulpn | grep :80
@@ -53,32 +53,32 @@ Create Folder
 mkdir
 ```
 
-Delete Folder
+### Delete Folder
 ```bash
 rm -r 
 ```
 
-Create File
+### Create File
 ```bash
 touch
 ```
 
-Delete File
+### Delete File
 ```bash
 rm
 ```
 
-Edit File with Terminal
+E### dit File with Terminal
 ```bash
 nano
 ```
 
-Search CLI
+### Search CLI
 ```bash
 history | grep
 ```
 
-Search CLI
+### Search CLI
 ```bash
 CTRL + R
 ```
