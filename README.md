@@ -22,6 +22,29 @@ End XAMPP
 ```bash
 sudo /opt/lampp/lampp stop
 ```
+
+---
+
+## Error XAMPP (another web server already running, atau 80/443 port is already)
+
+Check who use a port 80
+```bash
+sudo lsof -i :80
+sudo ss -tulpn | grep :80
+sudo netstat -tuln | grep :80
+```
+
+Shutdown a web server
+Apache2
+```bash
+sudo systemctl stop apache2
+```
+
+Nginx
+```bash
+sudo systemctl stop nginx
+```
+
 ---
 
 ## Dasar
