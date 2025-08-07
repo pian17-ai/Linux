@@ -50,35 +50,40 @@ sudo systemctl stop nginx
 ## Dasar
 Create Folder
 ```bash
-mkdir
+mkdir <>
 ```
 
 ### Delete Folder
 ```bash
-rm -r 
+rm -r <>
 ```
 
 ### Create File
 ```bash
-touch
+touch <>
 ```
 
 ### Delete File
 ```bash
-rm
+rm <>
 ```
 
-E### dit File with Terminal
+### Edit File with Terminal
 ```bash
-nano
+nano <>
 ```
 
 ### Search CLI
 ```bash
-history | grep
+history | grep <>
 ```
 
 ### Search CLI
 ```bash
 CTRL + R
+```
+
+### Copas folder
+```bash
+sudo cp ~/<>/ /<>/
 ```
