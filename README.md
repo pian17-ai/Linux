@@ -97,3 +97,13 @@ ls <>
 ```bash
 sudo chown [user]:[group] [file/folder]
 ```
+
+### Check User
+```bash
+whoami
+```
+
+### Check Group
+```bash
+id -gn
+```
