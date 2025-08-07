@@ -34,7 +34,7 @@ sudo ss -tulpn | grep :80
 sudo netstat -tuln | grep :80
 ```
 
-Shutdown a web server
+### Shutdown a web server
 Apache2
 ```bash
 sudo systemctl stop apache2
