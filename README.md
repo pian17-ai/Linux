@@ -98,6 +98,11 @@ ls <>
 sudo chown [user]:[group] [file/folder]
 ```
 
+### Fail save file? Change Ownership with Recursive
+```bash
+sudo chown -R [user]:[group] [file/folder]
+```
+
 ### Check User
 ```bash
 whoami
