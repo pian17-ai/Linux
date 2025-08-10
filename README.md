@@ -94,9 +94,9 @@ ls <>
 ```
 
 ### Change Ownership
+```
 ```bash
 sudo chown [user]:[group] [file/folder]
-```
 
 ### Fail save file? Change Ownership with Recursive
 ```bash
@@ -111,4 +111,12 @@ whoami
 ### Check Group
 ```bash
 id -gn
+```
+
+## Syntax error but in the web HTTP Error 500?
+### Add php.ini or add Syntax 
+```bash
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 ```
