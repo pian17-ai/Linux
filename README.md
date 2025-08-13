@@ -113,7 +113,7 @@ whoami
 id -gn
 ```
 
-## Syntax error but in the web HTTP Error 500?
+## How to view error in Browser
 ### Add php.ini or add Syntax 
 ```bash
 <?php
