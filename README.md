@@ -9,6 +9,7 @@
 6. icat
 7. btop
 8. tty-clock -c -C 6 -B
+9. neofetch
 
 ---
 
