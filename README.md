@@ -121,3 +121,24 @@ id -gn
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ```
+
+## How to Shutdown, Restart, Lock, and Sleep
+### Shutdown
+```bash
+shutdown now
+```
+
+### Restart
+```bash
+shutdown -r now
+```
+
+### Sleep / Hibernate
+```bash
+systemctl hibernate -i
+```
+
+### Lock Screen
+```bash
+loginctl lock-session
+```
