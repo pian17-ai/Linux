@@ -142,3 +142,24 @@ systemctl hibernate -i
 ```bash
 loginctl lock-session
 ```
+
+## How to status, start, end, and search connection
+### Status
+```bash
+nmcli radio wifi
+```
+
+### Start
+```bash
+nmcli radio wifi on
+```
+
+### End
+```bash
+nmcli radio wifi off
+```
+
+### Search Connection
+```bash
+nmtui
+```
