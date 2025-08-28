@@ -114,6 +114,11 @@ whoami
 id -gn
 ```
 
+### Check Battery
+```bash
+acpi
+```
+
 ## How to view error in Browser
 ### Add php.ini or add Syntax 
 ```bash
