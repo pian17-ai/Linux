@@ -168,3 +168,14 @@ nmcli radio wifi off
 ```bash
 nmtui
 ```
+
+## How to use OBS with NVIDIA
+### Check NVIDIA
+```bash
+nvidia-smi
+```
+
+### Run OBS
+```bash
+__NV_PRIME_RENDER_OFFLOAD=1 obs --ozone-platform=x11
+```
