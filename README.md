@@ -169,6 +169,16 @@ nmcli radio wifi off
 nmtui
 ```
 
+### Open Folder
+``bash
+yazi
+```
+
+### Rename File
+```bash
+mv nama_file_lama nama_file_baru
+```
+
 ## How to use OBS with NVIDIA
 ### Check NVIDIA
 ```bash
