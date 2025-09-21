@@ -170,7 +170,7 @@ nmtui
 ```
 
 ### Open Folder
-``bash
+```bash
 yazi
 ```
 
