@@ -189,3 +189,24 @@ nvidia-smi
 ```bash
 __NV_PRIME_RENDER_OFFLOAD=1 obs --ozone-platform=x11
 ```
+
+## Changes intel, nvidia, and hybrid to save battrery
+### Intel
+```bash
+sudo envycontrol -s integrated
+```
+
+### Nvidia
+```bash
+sudo envycontrol -s nvidia
+```
+
+### Hybrid
+```bash
+sudo envycontrol -s hybrid
+```
+
+### How Check
+```bash
+glxinfo | grep "renderer"
+```
