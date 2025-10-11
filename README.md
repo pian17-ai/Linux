@@ -98,6 +98,7 @@ ls <>
 ```
 ```bash
 sudo chown [user]:[group] [file/folder]
+```
 
 ### Fail save file? Change Ownership with Recursive
 ```bash
