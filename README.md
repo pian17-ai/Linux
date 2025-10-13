@@ -149,6 +149,11 @@ systemctl hibernate -i
 loginctl lock-session
 ```
 
+### Logout
+```bash
+hyprctl dispatch exit
+```
+
 ## How to status, start, end, and search connection
 ### Status
 ```bash
