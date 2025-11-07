@@ -5,7 +5,7 @@ Catatan pribadi hasil eksplorasi berbagai distro Linux — proses instalasi, mas
 ## 📘 Daftar Distro yang Pernah Dicoba
 | Distro | Link | Start | End | Device | Boot |
 |--------|---------------|-------------|-----|------------|-------------|
-| ![Preview](Arch/Image/48.png) | [Arch](./Arch/) | 22 Oct 2025 | Now | Lenovo LOQ | Triple Boot |
+| ![Preview](Arch/Image/480.png) | [Arch](./Arch/) | 22 Oct 2025 | Now | Lenovo LOQ | Triple Boot |
 | Mint | [Mint](./Mint) | 19 Oct 2025 | Now | ASUS X441B | Single Boot |
 | Kali | [Kali](./Kali/) | 4 Oct 2025 | 22 Oct 2025 | Lenovo LOQ | Triple Boot |
 | EndeavourOS | [EndeavourOS](./EndeavourOS/) | 30 Aug 2025 | Now | Lenovo LOQ | Dual Boot |
