@@ -216,3 +216,9 @@ sudo envycontrol -s hybrid
 ```bash
 glxinfo | grep "renderer"
 ```
+
+## Fish
+### How delete or change intro fish
+```
+set -U fish_greeting ""
+```
